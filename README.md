@@ -27,6 +27,10 @@ Pour commencer à utiliser mon exemple, suivez les étapes suivantes :
 
 N'hésitez pas à explorer ce template et à vous en inspirer pour vos propres projets.
 
+## Site web
+
+ [Site web](https://portfolio.it-pinots.dev/)
+
 ## Screenshots
 
 ![Screenshot 1](/images/simple_template_html.jpg)
