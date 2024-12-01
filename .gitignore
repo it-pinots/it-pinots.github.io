@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,visualstudio,web
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,linux,visualstudio,web
 
+### Devbox
+.devbox
+
 ### Linux ###
 *~
 
